@@ -53,8 +53,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/himanshujoshitech/)
 [![Email](https://img.shields.io/badge/Email-himanshujoshi.tech@gmail.com-red?style=flat-square&logo=gmail)](mailto:himanshujoshi.tech@gmail.com)
 
-
-
 ---
 
 ### ⚡ Fun Fact
