@@ -50,12 +50,11 @@
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/himanshujoshitech/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:himanshujoshi.tech@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-himanshujoshi.tech@gmail.com-red?style=flat-square&logo=gmail">
-</a>
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/himanshujoshitech/)
+[![Email](https://img.shields.io/badge/Email-himanshujoshi.tech@gmail.com-red?style=flat-square&logo=gmail)](mailto:himanshujoshi.tech@gmail.com)
+
 ---
 
 ### ⚡ Fun Fact
