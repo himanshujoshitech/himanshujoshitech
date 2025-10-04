@@ -50,7 +50,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/himanshujoshitech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@gmail.com">
