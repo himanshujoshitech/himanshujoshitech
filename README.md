@@ -25,7 +25,7 @@
 ---
 
 ### 📘 Current Focus
-- Building **Data Analytics Projects** using SQL, Power BI, and Excel  
+- Building **Data Analytics Projects** using SQL, Power BI, Python and Excel  
 - Practicing **LeetCode SQL Problems** and exploring **real-world datasets**  
 - Strengthening skills in **Data Visualization** and **Business Insights**
 
@@ -33,10 +33,10 @@
 
 ### 📂 Featured Projects
 #### 🧩 Netflix SQL Data Analysis  
-📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.*
+📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.*(https://github.com/himanshujoshitech/Netflix_SQL_Project)
 
 #### 📊 Sales Performance Dashboard (Excel)  
-📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*
+📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*(https://github.com/himanshujoshitech/Sales-Performance-Dashboard)
 
 ---
 
