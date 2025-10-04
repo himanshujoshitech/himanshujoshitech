@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himanshu Joshi</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel | MCA (Software Development)</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel | Data Visualization Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Completed **MCA** with specialization in **Software Development**  
-- 📊 Passionate about turning data into actionable insights  
-- 🧠 Currently learning and practicing **SQL**, **Power BI**, **Python (Pandas, NumPy)**, and **Excel**  
-- 📈 Interested in **Data Visualization**, **Business Intelligence**, and **Data-driven Decision Making**  
-- 🚀 Preparing for **Data Analyst** roles  
-- 💬 Ask me about: `SQL`, `Data Modeling`, `Power BI Dashboards`, `Python for Data Analysis`  
-- 📍 Based in **Jeetpur Negi, India**  
+- 🎓 Completed **MCA** with a **specialization in Software Development**  
+- 📊 Passionate about exploring and analyzing data to uncover insights and drive business decisions  
+- 🧠 Focused on building strong skills in **SQL**, **Power BI**, **Excel**, and **Python for Data Analysis**  
+- 📈 Interested in **Data Modeling**, **Business Intelligence**, and **Dashboard Reporting**  
+- 💬 Ask me about: `SQL`, `Data Analytics`, `Data Visualization`, `Power BI`, `Excel Dashboards`  
+- 📍 Based in **Uttarakhand, India**  
 
 ---
 
@@ -20,31 +19,31 @@
 | 💾 Databases | MySQL, PostgreSQL |
 | 📊 Visualization | Power BI, Excel |
 | 🐍 Programming | Python (Pandas, NumPy, Matplotlib) |
-| 📚 Concepts | Data Modeling, ETL, Joins, Aggregations, Window Functions |
+| 📚 Concepts | Data Modeling, Joins, Aggregations, Window Functions |
 | ⚙️ Others | Git, GitHub, Problem Solving |
 
 ---
 
 ### 📘 Current Focus
-- Building **Data Analytics Projects** (SQL + Power BI + Python)
-- Practicing **LeetCode SQL Questions**
-- Strengthening **Analytical Thinking & Visualization Skills**
+- Building **Data Analytics Projects** using SQL, Power BI, and Excel  
+- Practicing **LeetCode SQL Problems** and exploring **real-world datasets**  
+- Strengthening skills in **Data Visualization** and **Business Insights**
 
 ---
 
 ### 📂 Featured Projects
-- 🧩 **Netflix SQL Data Analysis** → [View Repository](#)  
-- 📊 **Sales Dashboard (Power BI)** → [View Repository](#)  
-- 📈 **E-Commerce Data Insights** → [View Repository](#)  
+#### 🧩 Netflix SQL Data Analysis  
+📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.*
 
-*(You can replace `#` with your actual repo links)*
+#### 📊 Sales Performance Dashboard (Excel)  
+📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*
 
 ---
 
 ### 🏆 Certifications & Learning
-- 🎯 SQL Mastery (LeetCode Practice)
-- 📜 Data Analytics using Power BI (In Progress)
-- 🧠 Python for Data Science (Self-Learning)
+- 🥇 **LeetCode 50 Days Problem Solving Challenge**  
+- 🧾 **HackerRank SQL (Basic)**  
+- 🧠 **Oracle Database Foundations for Developers**  
 
 ---
 
