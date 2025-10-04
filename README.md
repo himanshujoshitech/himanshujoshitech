@@ -33,10 +33,10 @@
 
 ### 📂 Featured Projects
 #### 🧩 Netflix SQL Data Analysis  
-📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.*(https://github.com/himanshujoshitech/Netflix_SQL_Project)
+📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.* → [View Repository](https://github.com/himanshujoshitech/Netflix_SQL_Project) 
 
 #### 📊 Sales Performance Dashboard (Excel)  
-📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*(https://github.com/himanshujoshitech/Sales-Performance-Dashboard)
+📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.* → [View Repository](https://github.com/himanshujoshitech/Sales-Performance-Dashboard) 
 
 ---
 
