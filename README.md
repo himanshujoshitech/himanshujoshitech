@@ -53,8 +53,8 @@
   <a href="https://www.linkedin.com/in/himanshujoshitech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-himanshujoshi%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto:himanshujoshi.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-himanshujoshi.tech@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
