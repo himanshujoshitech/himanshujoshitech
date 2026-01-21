@@ -39,6 +39,10 @@
 
 📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*
 
+#### 🛍️ Customer Shopping Behavior Analysis → [View Repository](https://github.com/himanshujoshitech/Customer_Shopping_Behavior_Analysis)
+
+📌 *An end-to-end data analytics project analyzing 3,900 customer transactions using Python, PostgreSQL, and Power BI to uncover insights on customer behavior, product performance, discounts, subscriptions, and revenue drivers, supported by dashboards, reports, and an AI-powered presentation.*
+
 ---
 
 ### 🏆 Certifications & Learning
