@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Joshi</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel | Data Visualization Enthusiast</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel | Data Visualization Enthusiast</h3>
 
 ---
 
