@@ -25,25 +25,39 @@
 ---
 
 ### 📘 Current Focus
-- Building **Data Analytics Projects** using SQL, Power BI, Python and Excel  
+- Building **Data Analytics Projects** using SQL, Power BI, Python, and Excel  
 - Practicing **LeetCode SQL Problems** and exploring **real-world datasets**  
 - Strengthening skills in **Data Visualization** and **Business Insights**
 
 ---
 
 ### 📂 Featured Projects
-#### 🛍️ Customer Shopping Behavior Analysis → [View Repository](https://github.com/himanshujoshitech/Customer_Shopping_Behavior_Analysis)
 
-📌 *An end-to-end data analytics project analyzing 3,900 customer transactions using Python, PostgreSQL, and Power BI to uncover insights on customer behavior, product performance, discounts, subscriptions, and revenue drivers, supported by dashboards, reports, and an AI-powered presentation.*
+#### 🛍️ Customer Shopping Behavior Analysis  
+👉 [View Repository](https://github.com/himanshujoshitech/Customer_Shopping_Behavior_Analysis)
 
-#### 🧩 Netflix SQL Data Analysis → [View Repository](https://github.com/himanshujoshitech/Netflix_SQL_Project) 
-📌 *An in-depth SQL analysis of Netflix data using PostgreSQL, uncovering insights on movies, TV shows, genres, and global content trends.*
+📌 *An end-to-end data analytics project analyzing customer transactions using Python, PostgreSQL, and Power BI to uncover insights on customer behavior, product performance, discounts, subscriptions, and revenue drivers.*
 
-#### 📊 Sales Performance Dashboard (Excel) → [View Repository](https://github.com/himanshujoshitech/Sales-Performance-Dashboard) 
+---
 
-📌 *An interactive Excel-based sales performance dashboard with PivotTables, Slicers, and VBA automation to analyze top-bottom performers, target achievements, and regional sales insights.*
+#### 🧩 Netflix SQL Data Analysis  
+👉 [View Repository](https://github.com/himanshujoshitech/Netflix_SQL_Project)
 
+📌 *An in-depth SQL analysis of Netflix data using PostgreSQL to uncover insights on movies, TV shows, genres, and global content trends.*
 
+---
+
+#### 📊 Website Performance & Engagement Analysis using Python  
+👉 [View Repository](https://github.com/himanshujoshitech/Website-Performance-Engagement-Analysis-Using-Python-)
+
+📌 *An applied data analytics project using Python to analyze website traffic and user engagement. Includes data cleaning, feature engineering, time-based analysis, and visualizations to derive actionable insights on channel performance and user behavior.*
+
+---
+
+#### 📈 Sales Performance Dashboard (Excel)  
+👉 [View Repository](https://github.com/himanshujoshitech/Sales-Performance-Dashboard)
+
+📌 *An interactive Excel-based sales dashboard using Pivot Tables, slicers, and VBA automation to analyze top and bottom performers, target achievement, and regional sales insights.*
 
 ---
 
@@ -55,9 +69,6 @@
 ---
 
 ### 📫 Connect with Me
-
-### 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/himanshujoshitech/)
 [![Email](https://img.shields.io/badge/Email-himanshujoshi.tech@gmail.com-red?style=flat-square&logo=gmail)](mailto:himanshujoshi.tech@gmail.com)
 
